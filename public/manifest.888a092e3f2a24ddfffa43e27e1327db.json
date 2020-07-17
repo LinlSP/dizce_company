@@ -1,0 +1,44 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.c065e2079d103bfaef948c26440add54.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.1a1e724b00a7658e0c0aef3abb1a492e.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_256x256.6825ca6ec37c20f22f95159a315854d6.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.307b312a927cb3b4cacf2ef98bd71f82.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.5f16f1d45d5d749ab685e0d3548ef1f8.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.92de9d9f0e34aa29921bd1a2a30e568f.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Dizce Company",
+  "short_name": "Dizce Company",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "shortname": "Dizce Company",
+  "description": "Dizce Company App",
+  "scope": "/",
+  "theme_color": "#456BD9",
+  "background_color": "#fff"
+}
