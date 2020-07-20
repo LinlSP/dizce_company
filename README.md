@@ -14,10 +14,6 @@ Node JS
 
 Focused on functionality.
 
-## Issues
-
-- Minor Bug with the Tags when trying to update a site.
-
 ## Installation
 
 Use the package manager [npm](https://nodejs.org/en/download/) to install Dizce-Company [Full App] .
